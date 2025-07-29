@@ -1,0 +1,42 @@
+{
+  "name": "vision-pro-ui-demo",
+  "version": "1.0.0",
+  "description": "A Vision Pro-style upload UI component demo built with Next.js and Framer Motion",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "type-check": "tsc --noEmit"
+  },
+  "dependencies": {
+    "next": "^14.2.0",
+    "react": "^18.3.0",
+    "react-dom": "^18.3.0",
+    "framer-motion": "^11.0.0",
+    "lucide-react": "^0.400.0",
+    "tailwindcss": "^3.4.0",
+    "autoprefixer": "^10.4.0",
+    "postcss": "^8.4.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20.14.0",
+    "@types/react": "^18.3.0",
+    "@types/react-dom": "^18.3.0",
+    "eslint": "^8.57.0",
+    "eslint-config-next": "^14.2.0",
+    "typescript": "^5.5.0"
+  },
+  "keywords": [
+    "vision-pro",
+    "ui",
+    "react",
+    "nextjs",
+    "framer-motion",
+    "glass-morphism",
+    "upload-component"
+  ],
+  "author": "Your Name",
+  "license": "MIT"
+}
